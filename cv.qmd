@@ -1,0 +1,9 @@
+---
+title: "CV"
+---
+
+You can embed a PDF:
+
+[Download my CV](CV_Shairam_Manickaraj.pdf)
+
+Or copy text sections of your CV directly here.

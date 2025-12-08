@@ -1,0 +1,7 @@
+---
+title: "Contact"
+---
+
+📧 **Email:** shairam\@example.com\
+📍 Berlin, Germany\
+🔗 GitHub / LinkedIn / ORCID

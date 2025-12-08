@@ -1,0 +1,30 @@
+---
+title: "Shairam Manickaraj"
+---
+
+<img src="profile.jpg" style="width:180px; float:right; margin-left:20px; border-radius:6px;"/>
+
+### About Me
+
+I am a researcher with an interest in epigenetics, chromatin regulation, and how cellular metabolism shapes the aging process.\
+My recent work examined **activity-dependent histone PTM dynamics** using quantitative mass spectrometry, where I explored trends in acetylation loss and methylation recovery following neuronal activation.
+
+I enjoy integrating **experimental biology** with **bioinformatics**, and I am currently expanding my skills through projects involving R, data analysis, and clinical data pipelines.
+
+------------------------------------------------------------------------
+
+### News
+
+-   **2025** – Completed training in Applied Bioinformatics & Biostatistics\
+-   **2025** – Internship in clinical data reporting & R development\
+-   **2024** – Master’s thesis on histone PTMs during neuronal excitation
+
+------------------------------------------------------------------------
+
+### Links
+
+📄 [CV](cv.qmd)\
+🔗 [GitHub](https://github.com/)\
+🔗 [ORCID](https://orcid.org/)\
+🔗 [Google Scholar](https://scholar.google.com/)\
+🔗 [ResearchGate](https://researchgate.net/)

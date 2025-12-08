@@ -1,0 +1,15 @@
+---
+title: "Projects"
+---
+
+## Histone PTM Dynamics
+
+Exploration of acetylation and methylation trends following neuronal stimulation using MS-based proteomics.
+
+## Data Visualization & R Programming
+
+Creation of R pipelines for clinical reporting and PTM analysis.
+
+## Epigenetics & Aging
+
+Conceptual work examining how chromatin responds to metabolic and environmental change.

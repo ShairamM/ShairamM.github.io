@@ -1,0 +1,24 @@
+---
+title: "Publications"
+---
+
+## Peer-reviewed Articles
+
+-   **Glial reactivity and cognitive decline follow chronic heterochromatin loss in neurons**\
+    *Nature Communications (2025)*\
+    \[DOI link\]
+
+-   **Bioinspired Metal Nanoparticles for Microbicidal Activity**\
+    *Bioinspired Nanomaterials (2021)*\
+    \[DOI link\]
+
+-   **Bioactive Zinc(II) complex incorporated nanofibers enhance bone tissue regeneration**\
+    *European Journal of Pharmaceutical Sciences (2021)*\
+    \[DOI link\]
+
+------------------------------------------------------------------------
+
+## Thesis Work
+
+**Neuronal activity-dependent histone PTM remodeling**\
+Master’s Thesis, Otto-von-Guericke University Magdeburg
