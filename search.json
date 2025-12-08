@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Glial reactivity and cognitive decline follow chronic heterochromatin loss in neurons\nNature Communications (2025)\n[DOI link]\nBioinspired Metal Nanoparticles for Microbicidal Activity\nBioinspired Nanomaterials (2021)\n[DOI link]\nBioactive Zinc(II) complex incorporated nanofibers enhance bone tissue regeneration\nEuropean Journal of Pharmaceutical Sciences (2021)\n[DOI link]"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-articles",
+    "href": "publications.html#peer-reviewed-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Glial reactivity and cognitive decline follow chronic heterochromatin loss in neurons\nNature Communications (2025)\n[DOI link]\nBioinspired Metal Nanoparticles for Microbicidal Activity\nBioinspired Nanomaterials (2021)\n[DOI link]\nBioactive Zinc(II) complex incorporated nanofibers enhance bone tissue regeneration\nEuropean Journal of Pharmaceutical Sciences (2021)\n[DOI link]"
+  },
+  {
+    "objectID": "publications.html#thesis-work",
+    "href": "publications.html#thesis-work",
+    "title": "Publications",
+    "section": "Thesis Work",
+    "text": "Thesis Work\nNeuronal activity-dependent histone PTM remodeling\nMaster’s Thesis, Otto-von-Guericke University Magdeburg"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Exploration of acetylation and methylation trends following neuronal stimulation using MS-based proteomics."
+  },
+  {
+    "objectID": "projects.html#histone-ptm-dynamics",
+    "href": "projects.html#histone-ptm-dynamics",
+    "title": "Projects",
+    "section": "",
+    "text": "Exploration of acetylation and methylation trends following neuronal stimulation using MS-based proteomics."
+  },
+  {
+    "objectID": "projects.html#data-visualization-r-programming",
+    "href": "projects.html#data-visualization-r-programming",
+    "title": "Projects",
+    "section": "Data Visualization & R Programming",
+    "text": "Data Visualization & R Programming\nCreation of R pipelines for clinical reporting and PTM analysis."
+  },
+  {
+    "objectID": "projects.html#epigenetics-aging",
+    "href": "projects.html#epigenetics-aging",
+    "title": "Projects",
+    "section": "Epigenetics & Aging",
+    "text": "Epigenetics & Aging\nConceptual work examining how chromatin responds to metabolic and environmental change."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "📧 Email: shairam@example.com\n📍 Berlin, Germany\n🔗 GitHub / LinkedIn / ORCID"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Shairam Manickaraj",
+    "section": "",
+    "text": "About Me\nI am a researcher with an interest in epigenetics, chromatin regulation, and how cellular metabolism shapes the aging process.\nMy recent work examined activity-dependent histone PTM dynamics using quantitative mass spectrometry, where I explored trends in acetylation loss and methylation recovery following neuronal activation.\nI enjoy integrating experimental biology with bioinformatics, and I am currently expanding my skills through projects involving R, data analysis, and clinical data pipelines.\n\n\n\nNews\n\n2025 – Completed training in Applied Bioinformatics & Biostatistics\n\n2025 – Internship in clinical data reporting & R development\n\n2024 – Master’s thesis on histone PTMs during neuronal excitation\n\n\n\n\nLinks\n📄 CV\n🔗 GitHub\n🔗 ORCID\n🔗 Google Scholar\n🔗 ResearchGate"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "You can embed a PDF:\nDownload my CV\nOr copy text sections of your CV directly here."
+  }
+]
