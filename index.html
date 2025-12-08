@@ -145,8 +145,8 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p><img src="profile.jpg" style="width:180px; float:right; margin-left:20px; border-radius:6px;"></p>
-<section id="about-me" class="level3">
-<h3 class="anchored" data-anchor-id="about-me">About Me</h3>
+<section id="about-shairam" class="level3">
+<h3 class="anchored" data-anchor-id="about-shairam">About Shairam</h3>
 <p>I am a researcher with an interest in epigenetics, chromatin regulation, and how cellular metabolism shapes the aging process.<br>
 My recent work examined <strong>activity-dependent histone PTM dynamics</strong> using quantitative mass spectrometry, where I explored trends in acetylation loss and methylation recovery following neuronal activation.</p>
 <p>I enjoy integrating <strong>experimental biology</strong> with <strong>bioinformatics</strong>, and I am currently expanding my skills through projects involving R, data analysis, and clinical data pipelines.</p>
@@ -248,7 +248,7 @@ My recent work examined <strong>activity-dependent histone PTM dynamics</strong>
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/ShairamM\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
